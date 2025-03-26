@@ -1,6 +1,6 @@
 # Welcome to Value-Buy Smartphone Data Analysis: Insights from Leading Brand Project
 
-This program explores the existing smartphone products with price range from 1 to 5 million IDR to create a new smartphone product with similar features. A smartphone company wants to develop a new, value-buy smartphone to customers by identifying which smartphone features are available within that price range.
+This project explores the existing smartphone products with price range from 1 to 5 million IDR to create a new smartphone product with similar features. A smartphone company wants to develop a new, value-buy smartphone to customers by identifying which smartphone features are available within that price range.
 
 ---------------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ As a data analyst working in company X, you should dig more information about ot
 | `num_reviews`      | Number of reviews received      |
 | `rev_rat_ratio`    | Number of reviews received      |
 | `brand_name`       | Brand of the product            |
-| `new_rating`       | Updat on product rating         |
+| `new_rating`       | Update on product rating         |
 
 Note: The new_rating is calculated by customer satisfaction that shows the proportion of customers giving rate 4 to 5.
 So, the following equation was implemented:
